@@ -1,0 +1,50 @@
+#main {
+    margin:15px auto;
+    width:670px;
+    height:350px;
+    text-align:center;
+}
+
+table {
+    margin:30px auto;
+    color:rgb(75, 68, 68);
+}
+
+#btn {
+    margin:10px;
+}
+
+td {
+    border:2px solid white;
+    width:68px;
+    height:68px;
+    padding:10px;
+    text-align:center;
+    box-sizing:border-box;
+    font-size:22px;
+}
+
+ h5 {
+     margin:10px;
+}
+
+.tdcss {
+    border:2px solid white;
+    width:68px;
+    height:68px;
+    text-align:center;
+    box-sizing:border-box;
+    font-size:15px;
+}
+
+span {
+    margin-right:6px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+ .ins {
+     margin-bottom:15px;
+ }
+
+
